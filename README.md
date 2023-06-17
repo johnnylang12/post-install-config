@@ -66,36 +66,62 @@ Same as before, while in "Agents" tab, click "Teams" -> "Add New Team". Call thi
 
 </p>
 <p>
-<h3> Step 4: Allow Anyone To Create Tickets </h3> To do this in the Admin Panel, navigate to "Settings", "Users", "Settings", and uncheck "Require registration and login to create tickets".
+<h3> Step 4: Allow Anyone To Create Tickets </h3> 
+While in the Admin Panel, navigate to "Settings" -> "Users" -> "Settings" tab, -> uncheck "Require registration and login to create tickets".
 </p>
 <br />
-<img src="https://i.imgur.com/rzXZ60d.png" height="80%" width="80%" alt="Anyone can create"/>
+<img src="https://i.ibb.co/2FRQCmZ/os-Ticket17.jpg" height="80%" width="60%" alt="Anyone can create"/>
 </p>
 <p>
-<h3> Step 5: Configure Agents </h3> Now we will create some agents, which are the help desk professionals who check and resolve tickets. In the Admin Panel, under "Agents", click "Add New Agent". The first agent will be named "Jane Doe" with an email of "jane.doe@osticket.com" and username "jane.doe". Make sure to note Jane's username for later. Click "Set Password", uncheck "Send the agent a password reset email", and enter a password for Jane. Once again, make note of this password for later. Uncheck "Require password change at next login", and click "Set". On the other tabs, this is where we can set Jane's permissions, add her to a team, and her department. Under "Access" We will put Jane in the "System Administrators" department as a "Supreme Admin". In "Teams" we will add her to "Level II Support", and then click "Create". Follow Step 5 to create a second agent with the name "John Doe". Set his department as "Support" and "View only". Now you should be able to see Jane and John under "Agents" with their departments listed.
+<h3> Step 5: Configure Agents </h3> Now we will create agents, which are the help desk professionals who check and resolve tickets. <br/>
+While in Admin Panel, go to "Agents" tab -> "Add New Agent". The first agent we'll name "Jane Doe" with an email "jane.d@osticket.com" and username "jane.doe". Click "Set Password", uncheck "Send the agent a password reset email" and enter a password for Jane. Make sure to note down Jane's info for later. Uncheck "Require password change at next login", and click "Set". We will assign Jane's department, role, and team. Under "Access" tab, select "System Administrators" for department and "Supreme Admin" for role. Under "Permissions" tab we'll leave everything checked then under "Teams" tab we will add her to "Level II Support", and then click "Create". <br/>
+Repeat Step 5 to create a second agent with the name "John Smith", john.s@osticket.com, and username john.smith. Set his department as "Support" and "View only". Now you should be able to see Jane and John under "Agents" with their departments listed.
 </p>
 <br />
-<img src="https://i.imgur.com/trv3weH.png" height="80%" width="80%" alt="New agents"/>
+<img src="https://i.ibb.co/kmH9Yv9/os-Ticket18.jpg" height="80%" width="60%" alt="New agents"/>
+<img src="https://i.ibb.co/R64WTmH/os-Ticket19.jpg" height="80%" width="60%" alt="New agents"/>
+<img src="https://i.ibb.co/f1x5ST9/os-Ticket20.jpg" height="80%" width="60%" alt="New agents"/>
+<img src="https://i.ibb.co/drBZ4gz/os-Ticket21.jpg" height="80%" width="60%" alt="New agents"/>
+<img src="https://i.ibb.co/x6Xwcfs/os-Ticket22.jpg" height="80%" width="60%" alt="New agents"/>
+<img src="https://i.ibb.co/ZLqHnr0/os-Ticket23.jpg" height="80%" width="60%" alt="New agents"/>
+<img src="https://i.ibb.co/k2ZtHSG/os-Ticket24.jpg" height="80%" width="60%" alt="New agents"/>
+
 </p>
 <p>
-<h3> Step 6: Configure Users </h3> Next, we will configure the users, who simply put, are the people opening tickets. To add users, switch to the "Agent Panel". Under "Users", click "Create New User". Name the first user "Karen Karen" with an email of "Karen@osticket.com", and "Add User". We will now add one more user. Following the same steps with the name Ken.
+<h3> Step 6: Configure Users </h3> Next, we will configure the users, these are the people opening tickets. <br/>
+Switch to the "Agent Panel". Under "Users" tab, click "Create New User". Name the first user "Karen Karen" with an email of "Karen@osticket.com", then "Add User". <br/>
+We will add one more user following the same steps with the name Ken Ken and Ken@osticket.com.
 </p>
 <br />
-<img src="https://i.imgur.com/GFUOmmu.png" height="80%" width="80%" alt="New Users"/>
+<img src="https://i.ibb.co/SvfN7V5/os-Ticket25.jpg" height="80%" width="60%" alt="New Users"/>
+<img src="https://i.ibb.co/bKT7hdt/os-Ticket26.jpg" height="80%" width="60%" alt="New Users"/>
+<img src="https://i.ibb.co/yncnc9M/os-Ticket27.jpg" height="80%" width="60%" alt="New Users"/>
 </p>
 <p>
-<h3> Step 7: Configure SLAs </h3> The purpose for the Service Level Agreement is to prioritize requests and also provide a length of time in which the help desk administrator expects the tickets to be resolved. So we will do this next. Go back to the "Admin Panel" and navigate to "Manage", and "SLA" where we will create 3 SLA plans. Click "Add New SLA Plan", naming it "SEV A", a grace period of "1" (hours), and schedule of "24/7". This means that at any time a ticket comes in, it has to be resolved in 1 hour. Next make two more SLAs, one called "SEV B", a grace period of "4" (hours), schedule of "24/7", and finally "SEV C", grace period of "8" (hours), schedule "Monday-Friday".
+<h3> Step 7: Configure SLAs </h3> Service Level Agreement (SLAs) is to prioritize requests and also provide a length of time in which the help desk administrator expects the tickets to be resolved. <br/>
+Go back to the "Admin Panel" and navigate to "Manage" tab -> "SLA", Click "Add New SLA Plan". <br/>
+Name this "SEV A" with a grace period of "1" (hours), and schedule of "24/7" then click "Add Plan". <br/>
+This means that at any time a ticket comes in, it has to be resolved in 1 hour. <br/>
+We will create two more SLAs. "SEV B", grace period of "4" (hours), schedule of "24/7", and finally "SEV C", grace period of "8" (hours), schedule "Monday-Friday".
 </p>
 <br />
-<img src="https://i.imgur.com/pnthCaA.png" height="80%" width="80%" alt="SLAs"/>
+<img src="https://i.ibb.co/vsmzxM7/os-Ticket28.jpg" height="80%" width="60%" alt="SLAs"/>
+<img src="https://i.ibb.co/T1p6JBt/os-Ticket29.jpg" height="80%" width="60%" alt="SLAs"/>
+<img src="https://i.ibb.co/DfD1p4h/os-Ticket30.jpg" height="80%" width="60%" alt="SLAs"/>
+
 </p>
 <p>
-<h3> Step 8: Configure Help Topics </h3> Help topics help streamline tickets assignments for users, so we will configure a few now. In the Admin Panel, navigate to "Manage", "Help Topics", and click "Add New Help Topic". We will create the following 4 help topics: "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset".
+<h3> Step 8: Configure Help Topics </h3> Help topics help streamline ticket assignments for users. <br/>
+In the Admin Panel, navigate to "Manage" tab -> "Help Topics", click "Add New Help Topic". <br/>
+We will create the following 4 help topics: <br/>
+"Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset".
 </p>
 <br />
-<img src="https://i.imgur.com/N7dOIZu.png" height="80%" width="80%" alt="Help Topics"/>
+<img src="https://i.ibb.co/DfD1p4h/os-Ticket30.jpg" height="80%" width="60%" alt="Help Topics"/>
+<img src="https://i.ibb.co/qDT4FPC/os-Ticket31.jpg" height="80%" width="60%" alt="Help Topics"/>
+<img src="https://i.ibb.co/MN7QXk1/os-Ticket32.jpg" height="80%" width="60%" alt="Help Topics"/>
+<img src="https://i.ibb.co/pL9dfjn/os-Ticket33.jpg" height="80%" width="60%" alt="Help Topics"/>
+
 </p>
 <p>
-<br />
-<br/>
 <h2> That completes the set up and configuration of osTicket! </h2>
